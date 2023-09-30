@@ -1,16 +1,16 @@
-### Hi there 👋
+### About Me 👋
 
-<!--
-**YH2RNG/YH2RNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Yeu Herng, an aspiring Data Analyst with a specialisation in Business Intelligence & Analytics and Data Mining. 
 
-Here are some ideas to get you started:
+## Tools
+- Languages: Python, SQL, R
+- Databases: Google BigQuery, MySQL
+- Visualisations: Microsoft PowerBI, Tableau, Google Looker Studio
+- Spreadsheets: Google Sheets, Microsoft Excel
+- Others: Figma, Microsoft PowerPoint, Canva
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Profiles
+- [LinkedIn] (https://www.linkedin.com/in/chan-yeu-herng-a20405204/)
+- [Tableau Public] (https://public.tableau.com/app/profile/chan.yeu.herng/vizzes)
+- [HackerRank] (https://www.hackerrank.com/Chan_yeuherng)
+
