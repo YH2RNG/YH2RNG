@@ -1,4 +1,4 @@
-### About Me 👋
+# About Me 👋
 
 Hi! I'm Yeu Herng, an aspiring Data Analyst with a specialisation in Business Intelligence & Analytics and Data Mining. 
 
@@ -10,7 +10,7 @@ Hi! I'm Yeu Herng, an aspiring Data Analyst with a specialisation in Business In
 - Others: Figma, Microsoft PowerPoint, Canva
 
 ## Profiles
-- [LinkedIn] (https://www.linkedin.com/in/chan-yeu-herng-a20405204/)
-- [Tableau Public] (https://public.tableau.com/app/profile/chan.yeu.herng/vizzes)
-- [HackerRank] (https://www.hackerrank.com/Chan_yeuherng)
+- [LinkedIn](https://www.linkedin.com/in/chan-yeu-herng-a20405204/)
+- [Tableau Public](https://public.tableau.com/app/profile/chan.yeu.herng/vizzes)
+- [HackerRank](https://www.hackerrank.com/Chan_yeuherng)
 
